@@ -13,3 +13,5 @@ Could make page more interactive in terms of animations or buttons. Need to upda
 
 ## Images
 <img width="960" alt="image" src="https://github.com/damian-fabrizio/MLB-Roster/assets/135930665/82545b7b-8da6-4c51-b777-5976c95fe969">
+<img width="960" alt="image" src="https://github.com/damian-fabrizio/MLB-Roster/assets/135930665/d6611492-1b2e-461c-a2eb-8c730a56c0e8">
+
