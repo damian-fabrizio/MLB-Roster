@@ -10,3 +10,6 @@ To create a fun and interesting project to strengthen front-end skills alongside
 
 ## Fixes
 Could make page more interactive in terms of animations or buttons. Need to update responsiveness when page dimensions are changed. Also would like to make the diaplayed roster style a bit more visually pleasing
+
+## Images
+<img width="960" alt="image" src="https://github.com/damian-fabrizio/MLB-Roster/assets/135930665/82545b7b-8da6-4c51-b777-5976c95fe969">
